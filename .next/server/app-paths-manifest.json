@@ -1,0 +1,15 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/error/page": "app/error/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/dashboard/(overview)/page": "app/dashboard/(overview)/page.js",
+  "/dashboard/estadisticas/[id]/ver/page": "app/dashboard/estadisticas/[id]/ver/page.js",
+  "/dashboard/periodos/[id]/edit/page": "app/dashboard/periodos/[id]/edit/page.js",
+  "/dashboard/periodos/page": "app/dashboard/periodos/page.js",
+  "/dashboard/periodos/create/page": "app/dashboard/periodos/create/page.js",
+  "/dashboard/planilla/page": "app/dashboard/planilla/page.js",
+  "/dashboard/relevamientos/[id]/ver/page": "app/dashboard/relevamientos/[id]/ver/page.js",
+  "/dashboard/usuarios/page": "app/dashboard/usuarios/page.js"
+}
